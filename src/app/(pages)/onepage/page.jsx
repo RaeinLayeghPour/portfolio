@@ -23,6 +23,7 @@ export const metadata = {
 	},
   description: AppData.settings.siteDescription,
 }
+// h
 
 async function HomeOnePage() {
   const posts = await getAllPosts();
