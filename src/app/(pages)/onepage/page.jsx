@@ -14,7 +14,6 @@ import HistorySection from "@components/sections/History";
 import ContactInfoSection from "@components/sections/ContactInfo";
 import ContactFormSection from "@components/sections/Contact";
 
-const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial"), { ssr: false } );
 const LatestPostsSlider = dynamic( () => import("@components/sliders/LatestPosts"), { ssr: false } );
 const ProjectsMasonry = dynamic( () => import("@components/ProjectsMasonry"), { ssr: false } );
 
@@ -34,7 +33,6 @@ async function HomeOnePage() {
       <HeroSection />
       <CountersSection />
       <ServicesSection />
-      <TestimonialSlider />
 
       <Suspense fallback={<div>Loading...</div>}>
         <ProjectsMasonry projects={projects} categories={AppData.projects.categories} />

@@ -6,7 +6,6 @@ import AppData from "@data/app.json";
 import HeroSection from "@components/sections/Hero";
 import CountersSection from "@components/sections/Counters";
 import ServicesSection from "@components/sections/Services";
-
 import PartnersSection from "@components/sections/Partners";
 
 
