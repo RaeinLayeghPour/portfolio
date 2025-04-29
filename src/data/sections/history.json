@@ -1,0 +1,80 @@
+{
+    "col1": {
+        "title": "Education",
+        "items": [
+            {
+                "title": "Toronto Metropolitan University",
+                "subtitle": "3rd-Year Unergraduate Student",
+                "date": "Sep 2023 - Apr 2028",
+                "text": "Bachelor's Degree in Electrical & Electronics Engineering",
+                "button": {
+                    "link": "/files/certificate.jpg",
+                    "type": "#",
+                    "label": "Diplome"
+                }
+            },
+            {
+                "title": "Converter Circuits Fundamentals: Specialization Program",
+                "subtitle": "Faculty of Technical Sciences, University of Novi Sad",
+                "date": "Sep 2024- Jan 2025",
+                "text": "Semiconductor Components, DC - DC Converters, DC - AC Converters, AC - DC Converters, AC - AC Converters.",
+                "button": {
+                    "link": "/files/certificate.jpg",
+                    "type": "modal",
+                    "label": "View Certificate"
+                }
+            },
+            {
+                "title": "Google Project Management Professional Certificate",
+                "subtitle": "Google",
+                "date": "Dec 2024 - Jan 2025",
+                "text": "Google Project Management: Specialization, Foundations of Project Management, Agile Project Management",
+                "button": {
+                    "link": "https://www.credly.com/badges/0b0c4d1b-fc7b-452c-95e2-2d1723f78e4b/linked_in_profile",
+                    "type": "link",
+                    "label": "View Certificate"
+                }
+            },
+            {
+                "title": "Excel Basics for Data Analysis",
+                "subtitle": "IBM",
+                "date": "Dec 2024 - Jan 2025",
+                "text": "Display working knowledge of Excel for Data Analysis.",
+                "button": {
+                    "link": "https://www.coursera.org/account/accomplishments/verify/ZOT1HHG3S87K?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
+                    "type": "link",
+                    "label": "View Certificate"
+                }
+            }
+            
+        ]
+    },
+    "col2": {
+        "title": "Work Experience",
+        "items": [
+            {
+                "title": "Research Assistant - Power System Protection",
+                "subtitle": "Toronto Metropolitan University",
+                "date": "Sep 2024 - Present",
+                "text": "Currently engaged in pioneering research focused on the development of advanced protection systems for electrical power networks."
+            },
+            {
+                "title": "Electrical Powertrain Engineer",
+                "subtitle": "Toronto Metropolitan Formula Racing",
+                "date": "Jun 2024 - Present",
+                "text": "Collaborate on the design, testing, and integration of electric powertrain systems as part of the TMU Formula Racing team."
+            },
+            {
+                "title": "Webmaster",
+                "subtitle": "IEEE TMU Student Branch",
+                "date": "Aug 2024 - Present",
+                "text": "Developed and launched the official website for the IEEE Toronto Metropolitan University Chapter, enhancing accessibility to events, resources, and updates.",
+                "button": {
+                    "type": "link",
+                    "link": "https://ieeetorontomu.ca/",
+                    "label": "View Website"
+                }
+            }
+        ]
+    }
+}
