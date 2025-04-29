@@ -9,7 +9,6 @@ import { getSortedProjectsData } from "@library/projects";
 import HeroSection from "@components/sections/Hero";
 import CountersSection from "@components/sections/Counters";
 import ServicesSection from "@components/sections/Services";
-import PricingSection from "@components/sections/Pricing";
 import PartnersSection from "@components/sections/Partners";
 import HistorySection from "@components/sections/History";
 import ContactInfoSection from "@components/sections/ContactInfo";
@@ -35,7 +34,6 @@ async function HomeOnePage() {
       <HeroSection />
       <CountersSection />
       <ServicesSection />
-      <PricingSection />
       <TestimonialSlider />
 
       <Suspense fallback={<div>Loading...</div>}>
