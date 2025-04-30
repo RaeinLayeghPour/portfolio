@@ -12,7 +12,7 @@
     "profile": {
         "avatar": "/img/face-1.JPG",
         "name": "Raein Layegh Pour",
-        "role": "Electrical Engineer <br>Power System Protection & HIL Specialist",
+        "role": "Power System Protection Engineer<br>& HIL Specialist",
         "info": [
             {
                 "label": "Residence",
@@ -78,7 +78,8 @@
                     "label": "Project Manager, Problem Solving, nnovation, Fast Learner"
                 }
             ]
-        }
+        },
+        "resume": "#"
     },
     "header": {
         "topBackground": "/img/1600x600_ElectricalEngineering_Banner.jpg",
