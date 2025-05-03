@@ -2,14 +2,6 @@
     "title": "My Projects",
     "items": [
         {
-            "title": "FPGA-Based Simple CPU Design using VHDL",
-            "text": "In this project I designed and implemented a basic Central Processing Unit (CPU) using VHDL and deployed it on an Altera FPGA board. The central processing unit (CPU) had an Arithmetic Logic Unit (ALU) that could do different kinds of math and logic operations, a Finite State Machine (FSM)-based program counter (PC) that could get and run instructions, and registers that could store temporary data.",
-            "button": {
-                "link": "https://github.com/RaeinLayeghPour/FPGA-Based-Simple-CPU-Design",
-                "label": "View Project"
-            }
-        },
-        {
             "title": "LED Torch PCB Design (KiCad)",
             "text": "I designed and developed a compact LED torch (flashlight) using KiCad, featuring a high-brightness LED, a current-limiting resistor, a DPDT switch for user control, and a CR2032 coin cell battery holder. The project involved full schematic capture, PCB layout optimization, and 3D visualization to ensure a functional and reliable design.",
             "button": {
@@ -18,12 +10,48 @@
             }
         },
         {
+    "title": "FPGA-Based Simple CPU Design using VHDL",
+            "text": "In this project I designed and implemented a basic Central Processing Unit (CPU) using VHDL and deployed it on an Altera FPGA board. The central processing unit (CPU) had an Arithmetic Logic Unit (ALU) that could do different kinds of math and logic operations, a Finite State Machine (FSM)-based program counter (PC) that could get and run instructions, and registers that could store temporary data.",
+            "button": {
+                "link": "https://github.com/RaeinLayeghPour/FPGA-Based-Simple-CPU-Design",
+                "label": "View Project"
+            }
+        },
+{
             "title": "IEEE TMU Chapter Website",
             "text": "Developed and launched the official website for the IEEE Toronto Metropolitan University Chapter, enhancing accessibility to events, resources, and updates. Focused on responsive design, user engagement, and performance optimization to support the chapter's initiatives.",
             "button": {
                 "link": "https://ieeetorontomu.ca/",
                 "label": "View Project"
+            },
+
+        {
+            "title": "Bank Accounts",
+            "text": "I developed a Java-based Bank Account Management System that simulates real-world banking operations using object-oriented programming principles. The project includes two core classes—Account and Bank—designed to handle tasks such as deposits, withdrawals, and account management with data validation and duplication checks.",
+            "button": {
+                "link": "https://github.com/RaeinLayeghPour/Bank-Accounts/",
+                "label": "View Project"
+            },
+{
+            "title": "Blackjack",
+            "text": "I built a fully functional Simplified Blackjack game using Java, showcasing object-oriented programming and user interface integration. The project involved developing core classes such as Card, CardPile, BlackjackGame, and a SimpleUI, while managing game logic through user input and dynamic card handling.",
+            "button": {
+                "link": "https://github.com/RaeinLayeghPour/Blackjack",
+                "label": "View Project"
             }
+        },
+{
+            "title": "Simple Resistive Circuits",
+            "text": "I developed a Java-based application that simulates and analyzes simple DC resistive circuits. The program parses circuit descriptions from user input, supports resistors and voltage sources, and outputs the corresponding SPICE representation.",
+            "button": {
+                "link": "https://github.com/RaeinLayeghPour/Simple-Resistive-Circuits",
+                "label": "View Project"
+            }
+}
+}
+
+
+
         }
     ]
 }
