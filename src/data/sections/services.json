@@ -26,28 +26,30 @@
       }
     },
     {
-      "title": "Bank Accounts",
-      "text": "I developed a Java-based Bank Account Management System that simulates real-world banking operations using object-oriented programming principles. The project includes two core classes—Account and Bank—designed to handle tasks such as deposits, withdrawals, and account management with data validation and duplication checks.",
+      "title": "Simple Resistive Circuits",
+      "text": "I developed a Java-based application that simulates and analyzes simple DC resistive circuits. The program parses circuit descriptions from user input, supports resistors and voltage sources, and outputs the corresponding SPICE representation.",
       "button": {
-        "link": "https://github.com/RaeinLayeghPour/Bank-Accounts/",
+        "link": "https://github.com/RaeinLayeghPour/Simple-Resistive-Circuits",
         "label": "View Project"
-      }
-    },
+      },
     {
       "title": "Blackjack",
       "text": "I built a fully functional Simplified Blackjack game using Java, showcasing object-oriented programming and user interface integration. The project involved developing core classes such as Card, CardPile, BlackjackGame, and a SimpleUI, while managing game logic through user input and dynamic card handling.",
       "button": {
         "link": "https://github.com/RaeinLayeghPour/Blackjack",
         "label": "View Project"
-      }
-    },
+      },
+
+
     {
-      "title": "Simple Resistive Circuits",
-      "text": "I developed a Java-based application that simulates and analyzes simple DC resistive circuits. The program parses circuit descriptions from user input, supports resistors and voltage sources, and outputs the corresponding SPICE representation.",
+      "title": "Bank Accounts",
+      "text": "I developed a Java-based Bank Account Management System that simulates real-world banking operations using object-oriented programming principles. The project includes two core classes—Account and Bank—designed to handle tasks such as deposits, withdrawals, and account management with data validation and duplication checks.",
       "button": {
-        "link": "https://github.com/RaeinLayeghPour/Simple-Resistive-Circuits",
+        "link": "https://github.com/RaeinLayeghPour/Bank-Accounts/",
         "label": "View Project"
       }
+    }
+    }
     }
   ]
 }
