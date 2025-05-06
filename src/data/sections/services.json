@@ -10,18 +10,18 @@
       }
     },
     {
+      "title": "3-Stage BJT Amplifier Design (Multisim)",
+      "text": "I recently designed and simulated a 3-stage BJT amplifier in Multisim using 2N3904 NPN transistors, consisting of two common-emitter gain stages and an emitter-follower buffer. The goal was to amplify a small 1 kHz input signal while maintaining signal integrity and stability.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Three-Stage-BJT-Amplifier",
+        "label": "View Project"
+      }
+    },
+  {
       "title": "FPGA-Based Simple CPU Design using VHDL",
       "text": "In this project I designed and implemented a basic Central Processing Unit (CPU) using VHDL and deployed it on an Altera FPGA board. The central processing unit (CPU) had an Arithmetic Logic Unit (ALU) that could do different kinds of math and logic operations, a Finite State Machine (FSM)-based program counter (PC) that could get and run instructions, and registers that could store temporary data.",
       "button": {
         "link": "https://github.com/RaeinLayeghPour/FPGA-Based-Simple-CPU-Design",
-        "label": "View Project"
-      }
-    },
-    {
-      "title": "IEEE TMU Chapter Website",
-      "text": "Developed and launched the official website for the IEEE Toronto Metropolitan University Chapter, enhancing accessibility to events, resources, and updates. Focused on responsive design, user engagement, and performance optimization to support the chapter's initiatives.",
-      "button": {
-        "link": "https://ieeetorontomu.ca/",
         "label": "View Project"
       }
     },
