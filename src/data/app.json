@@ -38,8 +38,8 @@
                     "value": "1"
                 },
                 {
-                    "label": "New Project (KiCad)",
-                    "value": "0.1"
+                    "label": "Simple Drive System (Typhoon HIL)",
+                    "value": "1"
                 }
             ],
             "hard": [
