@@ -1,6 +1,24 @@
 {
   "title": "My Projects",
   "items": [
+ {
+      "title": "Grid-to-Motor Drive System with Real-Time Feedback using HIL (Typhoon HIL)",
+      "text": "In this project, I simulated a complete power conversion and motor control system using Typhoon HIL's real-time Hardware-in-the-Loop environment. The system begins with a three-phase AC grid input, which is passed through a three-phase diode rectifier to generate a DC bus voltage. This DC power is stabilized using a DC-link capacitor and then fed into a three-phase inverter that uses PWM switching to drive an induction motor.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Simple-Drive-System",
+        "label": "View Project"
+      }
+    },
+
+ {
+      "title": "Three-Phase Induction Motor Drive Modeled with DC Input and SCADA Interface (Typhoon HIL)",
+      "text": "A three-phase inverter-fed induction motor system was simulated using Typhoon HIL's real-time simulation environment and SCADA interface. The system used a DC power source with Clarke (αβ) to abc transformation for inverter modulation, and real-time control logic executed on the User CPU.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Simple-Drive-System",
+        "label": "View Project"
+      }
+    },
+
     {
       "title": "LED Torch PCB Design (KiCad)",
       "text": "I designed and developed a compact LED torch (flashlight) using KiCad, featuring a high-brightness LED, a current-limiting resistor, a DPDT switch for user control, and a CR2032 coin cell battery holder. The project involved full schematic capture, PCB layout optimization, and 3D visualization to ensure a functional and reliable design.",
