@@ -16,7 +16,7 @@
             {
                 "title": "Converter Circuits Fundamentals: Specialization Program",
                 "subtitle": "Faculty of Technical Sciences, University of Novi Sad",
-                "date": "Sep 2024- Jan 2025",
+                "date": "Sep 2024",
                 "text": "Semiconductor Components, DC - DC Converters, DC - AC Converters, AC - DC Converters, AC - AC Converters.",
                 "button": {
                     "link": "/files/certificate.jpg",
@@ -24,10 +24,22 @@
                     "label": "View Certificate"
                 }
             },
+   {
+                "title": "HIL Specialist 2.0",
+                "subtitle": "Typhoon HIL, Inc.",
+                "date": "May 2025",
+                "text": "HIL Fundamentals, HIL for Power Electronics, HIL for Microgrids, Test Automation, Communication Protocols.",
+                "button": {
+                    "link": "/files/certificate2.jpg",
+                    "type": "modal",
+                    "label": "View Certificate"
+                }
+            },
+
             {
                 "title": "Google Project Management Professional Certificate",
                 "subtitle": "Google",
-                "date": "Dec 2024 - Jan 2025",
+                "date": "Dec 2024",
                 "text": "Google Project Management: Specialization, Foundations of Project Management, Agile Project Management",
                 "button": {
                     "link": "https://www.credly.com/badges/0b0c4d1b-fc7b-452c-95e2-2d1723f78e4b/linked_in_profile",
@@ -38,7 +50,7 @@
             {
                 "title": "Excel Basics for Data Analysis",
                 "subtitle": "IBM",
-                "date": "Dec 2024 - Jan 2025",
+                "date": "Dec 2024",
                 "text": "Display working knowledge of Excel for Data Analysis.",
                 "button": {
                     "link": "https://www.coursera.org/account/accomplishments/verify/ZOT1HHG3S87K?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
