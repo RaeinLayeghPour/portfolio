@@ -30,15 +30,15 @@
         "skills": {
             "language": [
                 {
-                    "label": "3-Stage BJT Amplifier",
-                    "value": "1"
-                },
-                {
                     "label": "LED Torch (KiCad)",
                     "value": "1"
                 },
                 {
                     "label": "Simple Drive System (Typhoon HIL)",
+                    "value": "1"
+                },
+                {
+                    "label": "Real-Time Smart Grid Control System",
                     "value": "1"
                 }
             ],
