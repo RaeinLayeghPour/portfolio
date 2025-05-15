@@ -2,6 +2,15 @@
   "title": "My Projects",
   "items": [
  {
+      "title": "Real-Time Smart Grid Control System for Hydropower Retrofit (Typhoon HIL & Modbus Integration)",
+      "text": "I developed a real-time smart grid control system to retrofit existing hydropower stations using Typhoon HIL. The project involved simulating dynamic interactions between hydropower, solar PV, battery storage, and variable loads within a full HIL environment.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Real-Time-Smart-Grid-Control-System",
+        "label": "View Project"
+      }
+    },
+
+ {
       "title": "Grid-to-Motor Drive System with Real-Time Feedback using HIL (Typhoon HIL)",
       "text": "In this project, I simulated a complete power conversion and motor control system using Typhoon HIL's real-time Hardware-in-the-Loop environment. The system begins with a three-phase AC grid input, which is passed through a three-phase diode rectifier to generate a DC bus voltage. This DC power is stabilized using a DC-link capacitor and then fed into a three-phase inverter that uses PWM switching to drive an induction motor.",
       "button": {
