@@ -30,15 +30,15 @@
         "skills": {
             "language": [
                 {
-                    "label": "LED Torch (KiCad)",
-                    "value": "1"
-                },
-                {
-                    "label": "Simple Drive System (Typhoon HIL)",
-                    "value": "1"
-                },
-                {
                     "label": "Real-Time Smart Grid Control System (Typhoon HIL)",
+                    "value": "1"
+                },
+                {
+                    "label": "Breadboard Power Supply Module (PCB Design)",
+                    "value": "1"
+                },
+                {
+                    "label": "Tiny Solar Power Supply Module (Custom PCB Design)",
                     "value": "1"
                 }
             ],
