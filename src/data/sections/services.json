@@ -1,6 +1,16 @@
 {
   "title": "My Projects",
   "items": [
+
+ {
+      "title": "Breadboard Power Supply Module (Custom PCB Design)",
+      "text": "A compact dual-voltage breadboard power supply module designed using KiCad. This project provides regulated 3.3V and 5V outputs from a DC barrel jack, making it ideal for embedded prototyping and electronics labs. Version 0.2 includes refined layout, onboard switching, and custom branding.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Breadboard-Power-Supply",
+        "label": "View Project"
+      }
+    },
+
  {
       "title": "Real-Time Smart Grid Control System for Hydropower Retrofit (Typhoon HIL & Modbus Integration)",
       "text": "I developed a real-time smart grid control system to retrofit existing hydropower stations using Typhoon HIL. The project involved simulating dynamic interactions between hydropower, solar PV, battery storage, and variable loads within a full HIL environment.",
