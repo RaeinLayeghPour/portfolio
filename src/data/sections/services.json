@@ -6,7 +6,7 @@
       "title": "Tiny Solar Power Supply (Custom PCB Design)",
       "text": "Designed a compact solar power supply in KiCad for Toronto Metropolitan Formula Racing, featuring the AP3015 boost converter for voltage regulation, SS14 Schottky diodes for input/output protection, and a 2N7002 MOSFET for switching between solar and battery sources. The project includes a complete schematic, PCB layout, 3D rendering, and organized source files fully optimized for low-voltage embedded systems and ready for fabrication.",
       "button": {
-        "link": "https://github.com/RaeinLayeghPour/Breadboard-Power-Supply",
+        "link": "https://github.com/RaeinLayeghPour/Tiny-Solar-Power-Supply",
         "label": "View Project"
       }
     },
