@@ -30,16 +30,16 @@
         "skills": {
             "language": [
                 {
-                    "label": "Real-Time Smart Grid Control System (Typhoon HIL)",
-                    "value": "1"
-                },
-                {
                     "label": "Breadboard Power Supply Module (PCB Design)",
                     "value": "1"
                 },
                 {
-                    "label": "Tiny Solar Power Supply Module (Custom PCB Design)",
-                    "value": "0.85"
+                    "label": "Tiny Solar Power Supply Module (PCB Design)",
+                    "value": "1"
+                },
+                {
+                    "label": "MCU datalogger with build-in 512K EEPROM (PCB Design)",
+                    "value": "0"
                 }
             ],
             "hard": [
