@@ -35,11 +35,11 @@
                 },
                 {
                     "label": "MCU datalogger with build-in 512K EEPROM (PCB Design)",
-                    "value": "0"
+                    "value": "0.0"
                 },
                 {
                     "label": "Digital Substation (Typhoon HIL & PCM600)",
-                    "value": "6"
+                    "value": "0.6"
                 }
             ],
             "hard": [
