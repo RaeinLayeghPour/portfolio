@@ -17,7 +17,7 @@
                 "title": "Converter Circuits Fundamentals: Specialization Program",
                 "subtitle": "Faculty of Technical Sciences, University of Novi Sad",
                 "date": "Sep 2024",
-                "text": "Semiconductor Components, DC - DC Converters, DC - AC Converters, AC - DC Converters, AC - AC Converters.",
+                "text": "Semiconductor Components, DC - DC Converters, DC - AC Converters, AC - DC Converters, AC - AC Converters",
                 "button": {
                     "link": "/files/certificate.jpg",
                     "type": "modal",
@@ -28,13 +28,25 @@
                 "title": "HIL Specialist 2.0",
                 "subtitle": "Typhoon HIL, Inc.",
                 "date": "May 2025",
-                "text": "HIL Fundamentals, HIL for Power Electronics, HIL for Microgrids, Test Automation, Communication Protocols.",
+                "text": "HIL Fundamentals, HIL for Power Electronics, HIL for Microgrids, Test Automation, Communication Protocols",
                 "button": {
                     "link": "/files/certificate2.jpg",
                     "type": "modal",
                     "label": "View Certificate"
                 }
             },
+   {
+                "title": "PCB design with KiCad - Updated for KiCad 9",
+                "subtitle": "Udemy",
+                "date": "June 2025",
+                "text": "Printed Circuit Board (PCB) Design and KiCAD",
+                "button": {
+                    "link": "https://www.udemy.com/certificate/UC-6be500f0-563c-4512-9839-01f92b8a46bf/",
+                    "type": "modal",
+                    "label": "View Certificate"
+                }
+            },
+
 
             {
                 "title": "Google Project Management Professional Certificate",
@@ -51,7 +63,7 @@
                 "title": "Excel Basics for Data Analysis",
                 "subtitle": "IBM",
                 "date": "Dec 2024",
-                "text": "Display working knowledge of Excel for Data Analysis.",
+                "text": "Display working knowledge of Excel for Data Analysis",
                 "button": {
                     "link": "https://www.coursera.org/account/accomplishments/verify/ZOT1HHG3S87K?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
                     "type": "link",
