@@ -30,16 +30,16 @@
         "skills": {
             "language": [
                 {
-                    "label": "Breadboard Power Supply Module (PCB Design)",
-                    "value": "1"
-                },
-                {
                     "label": "Tiny Solar Power Supply Module (PCB Design)",
                     "value": "1"
                 },
                 {
                     "label": "MCU datalogger with build-in 512K EEPROM (PCB Design)",
                     "value": "0"
+                },
+                {
+                    "label": "Digital Substation (Typhoon HIL & PCM600)",
+                    "value": "6"
                 }
             ],
             "hard": [
@@ -59,6 +59,11 @@
                     "label": "JAVA",
                     "value": "0.85"
                 },
+
+ {
+                    "label": "Assembly language",
+                    "value": "0.85"
+                },
                 {
                     "label": "VHDL",
                     "value": "0.85"
@@ -66,16 +71,16 @@
             ],
             "knowledge": [
                 {
-                    "label": "Simulink, PSCAD/EMTDC, PSIM"
+                    "label": "Simulink, ETAP, CYME"
                 },
                 {
-                    "label": "KiCad, Altium Designer"
+                    "label": "KiCad, Typhoon HIL, PCM600"
                 },
                 {
-                    "label": "Multisim, Quartus II"
+                    "label": "Multisim, Quartus II, Power BI"
                 },
                 {
-                    "label": "Project Manager, Problem Solving, nnovation, Fast Learner"
+                    "label": "Project Manager, Problem Solving, Innovation, Fast Learner"
                 }
             ]
         },
