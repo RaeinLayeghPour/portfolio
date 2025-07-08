@@ -2,8 +2,8 @@
   "title": "My Projects",
   "items": [
  {
-      "title": "MCU Datalogger with Clock and Memory (Custome PCB Design)",
-      "text": "A custom-designed microcontroller-based datalogger using the ATmega328P, built for embedded sensor data logging in automotive applications. This compact board integrates an RTC crystal for time-stamping and a 2Mbit EEPROM for high-volume memory logging. Designed in KiCad from schematic to final render. Perfect for real-time diagnostics in electric vehicle systems.",
+      "title": "4-Layer Microcontroller Datalogger with RTC and EEPROM | Designed in KiCad",
+      "text": "This is a 4-layer datalogger PCB, designed using ATmega328P, a DS1337 RTC, and 2Mbit EEPROM for real-time, battery-backed data logging. This compact board supports I2C, SPI, UART, GPIO, and ICSP programming. The 4-layer stack ensures clean signal routing, improved EMI control, and optimized power and ground planes.",
       "button": {
         "link": "https://github.com/RaeinLayeghPour/MCU-Datalogger-with-Clock-and-Memory",
         "label": "View Project"
