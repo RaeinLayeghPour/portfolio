@@ -9,22 +9,6 @@
         "label": "View Project"
       }
     },
- {
-      "title": "Tiny Solar Power Supply (Custom PCB Design)",
-      "text": "Designed a compact solar power supply in KiCad for Toronto Metropolitan Formula Racing, featuring the AP3015 boost converter for voltage regulation, SS14 Schottky diodes for input/output protection, and a 2N7002 MOSFET for switching between solar and battery sources. The project includes a complete schematic, PCB layout, 3D rendering, and organized source files fully optimized for low-voltage embedded systems and ready for fabrication.",
-      "button": {
-        "link": "https://github.com/RaeinLayeghPour/Tiny-Solar-Power-Supply",
-        "label": "View Project"
-      }
-    },
- {
-      "title": "Breadboard Power Supply Module (Custom PCB Design)",
-      "text": "A compact dual-voltage breadboard power supply module designed using KiCad. This project provides regulated 3.3V and 5V outputs from a DC barrel jack, making it ideal for embedded prototyping and electronics labs. Version 0.2 includes refined layout, onboard switching, and custom branding.",
-      "button": {
-        "link": "https://github.com/RaeinLayeghPour/Breadboard-Power-Supply",
-        "label": "View Project"
-      }
-    },
 
  {
       "title": "Real-Time Smart Grid Control System for Hydropower Retrofit (Typhoon HIL & Modbus Integration)",
@@ -34,6 +18,15 @@
         "label": "View Project"
       }
     },
+ {
+      "title": "Test Bench for Signal Validation (Simulated 3-Phase System) Using Python",
+      "text": "A Python-based test automation framework for simulating and validating 3-phase AC signals under various conditions, including frequency variation, phase shift, and noise. Designed as a signal validation tool for electrical engineering applications such as inverter testing, motor control, and power system QA.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Test-Bench-for-Signal-Validation-Simulated-3-Phase-System",
+        "label": "View Project"
+      }
+    },
+
 
  {
       "title": "Grid-to-Motor Drive System with Real-Time Feedback using HIL (Typhoon HIL)",
@@ -49,15 +42,6 @@
       "text": "A three-phase inverter-fed induction motor system was simulated using Typhoon HIL's real-time simulation environment and SCADA interface. The system used a DC power source with Clarke (αβ) to abc transformation for inverter modulation, and real-time control logic executed on the User CPU.",
       "button": {
         "link": "https://github.com/RaeinLayeghPour/Simple-Drive-System",
-        "label": "View Project"
-      }
-    },
-
-    {
-      "title": "LED Torch PCB Design (KiCad)",
-      "text": "I designed and developed a compact LED torch (flashlight) using KiCad, featuring a high-brightness LED, a current-limiting resistor, a DPDT switch for user control, and a CR2032 coin cell battery holder. The project involved full schematic capture, PCB layout optimization, and 3D visualization to ensure a functional and reliable design.",
-      "button": {
-        "link": "https://github.com/RaeinLayeghPour/LED-Torch-PCB-Design",
         "label": "View Project"
       }
     },
@@ -85,21 +69,6 @@
         "label": "View Project"
       }
     },
-    {
-      "title": "Blackjack",
-      "text": "I built a fully functional Simplified Blackjack game using Java, showcasing object-oriented programming and user interface integration. The project involved developing core classes such as Card, CardPile, BlackjackGame, and a SimpleUI, while managing game logic through user input and dynamic card handling.",
-      "button": {
-        "link": "https://github.com/RaeinLayeghPour/Blackjack",
-        "label": "View Project"
-      }
-    },
-    {
-      "title": "Bank Accounts",
-      "text": "I developed a Java-based Bank Account Management System that simulates real-world banking operations using object-oriented programming principles. The project includes two core classes—Account and Bank—designed to handle tasks such as deposits, withdrawals, and account management with data validation and duplication checks.",
-      "button": {
-        "link": "https://github.com/RaeinLayeghPour/Bank-Accounts/",
-        "label": "View Project"
-      }
     }
   ]
 }
