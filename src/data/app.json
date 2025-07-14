@@ -30,16 +30,16 @@
         "skills": {
             "language": [
                 {
-                    "label": "Tiny Solar Power Supply Module (PCB Design)",
-                    "value": "1"
-                },
-                {
                     "label": "MCU datalogger with build-in 512K EEPROM (PCB Design)",
                     "value": "1"
                 },
                 {
                     "label": "Digital Substation (Typhoon HIL & PCM600)",
-                    "value": "0.7"
+                    "value": "0.8"
+                },
+                {
+                    "label": "(Spoilers!)",
+                    "value": "0.0"
                 }
             ],
             "hard": [
