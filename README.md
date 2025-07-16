@@ -1,4 +1,4 @@
-# 🌐 Raein Layegh Pour — Personal Portfolio Website
+# 🌐 My Personal Portfolio Website
 
 Welcome to my personal portfolio website!  
 This project is built using **Next.js** and showcases my work, skills, and projects as an electrical engineering student and developer.
