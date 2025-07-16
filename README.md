@@ -1,0 +1,47 @@
+# 🌐 Raein Layegh Pour — Personal Portfolio Website
+
+Welcome to my personal portfolio website!  
+This project is built using **Next.js** and showcases my work, skills, and projects as an electrical engineering student and developer.
+
+Live site: [raeinportfolio.com](https://raeinportfolio.com)
+
+---
+
+## 🚀 Features
+
+- Responsive, modern design
+- Project gallery with detailed descriptions
+- Resume download and contact form
+- Optimized for performance and SEO
+- Easy-to-edit content structure
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: [Next.js](https://nextjs.org/), React.js
+- **Styling**: SCSS, CSS Modules
+- **Icons**: react-icons, custom SVGs
+- **Hosting**: Vercel
+
+---
+
+## 📂 Folder Structure
+
+<pre> ``` . ├── public/ # Static assets (images, favicon, etc.) ├── pages/ # Next.js routing pages (Home, Projects, Contact, etc.) ├── components/ # Reusable React components ├── styles/ # SCSS module styles ├── data/ # Project and skill data (JSON or JS files) ├── next.config.js # Next.js configuration └── package.json # Dependencies and scripts ``` </pre>
+
+---
+
+## 📬 Contact
+
+Want to collaborate or reach out?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/raeinlayeghpour)
+- ✉️ Email: raeinlayeghpour@gmail.com
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
