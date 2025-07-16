@@ -38,10 +38,3 @@ Want to collaborate or reach out?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/raeinlp?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B83lXkAmuS1qO1J%2BuIkMImQ%3D%3D)
 - ✉️ Email: raeen.layegh2017@gmail.com
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
