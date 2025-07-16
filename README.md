@@ -28,7 +28,14 @@ Live site: [raeinportfolio.com](https://raeinportfolio.com)
 
 ## 📂 Folder Structure
 
-<pre> ``` . ├── public/ # Static assets (images, favicon, etc.) ├── pages/ # Next.js routing pages (Home, Projects, Contact, etc.) ├── components/ # Reusable React components ├── styles/ # SCSS module styles ├── data/ # Project and skill data (JSON or JS files) ├── next.config.js # Next.js configuration └── package.json # Dependencies and scripts ``` </pre>
+<pre> ``` .
+├── public/ # Static assets (images, favicon, etc.)
+├── pages/ # Next.js routing pages (Home, Projects, Contact, etc.)
+├── components/ # Reusable React components
+├── styles/ # SCSS module styles
+├── data/ # Project and skill data (JSON or JS files)
+├── next.config.js # Next.js configuration
+└── package.json # Dependencies and scripts ``` </pre>
 
 ---
 
