@@ -34,12 +34,12 @@
                     "value": "1"
                 },
                 {
-                    "label": "Digital Substation (Typhoon HIL & PCM600)",
-                    "value": "0.8"
+                    "label": "Wind Turbine System Simulation in PSCAD",
+                    "value": "1"
                 },
                 {
-                    "label": "(Spoilers!)",
-                    "value": "0.0"
+                    "label": "Digital Substation (Typhoon HIL & PCM600)",
+                    "value": "0.8"
                 }
             ],
             "hard": [
