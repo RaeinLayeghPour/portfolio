@@ -1,6 +1,15 @@
 {
   "title": "My Projects",
   "items": [
+   {
+      "title": "Advanced Wind Turbine System Simulation in PSCAD | Grid Integration & Power Converter Control",
+      "text": "This simulation illustrates a complete wind energy conversion system (WECS) modeled in PSCAD. It includes a wind turbine, synchronous generator, full-scale power converter (AC–DC–AC), DC link, transformer, and grid connection. The system integrates control strategies for turbine pitch, generator torque, and inverter modulation, with real-time monitoring of power flow, mechanical dynamics, and voltage behavior across the network.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Advanced-Wind-Energy-System-Simulation-in-PSCAD",
+        "label": "View Project"
+      }
+    },
+
     {
       "title": "4-Layer Microcontroller Datalogger with RTC and EEPROM | Designed in KiCad",
       "text": "This is a 4-layer datalogger PCB, designed using ATmega328P, a DS1337 RTC, and 2Mbit EEPROM for real-time, battery-backed data logging. This compact board supports I2C, SPI, UART, GPIO, and ICSP programming. The 4-layer stack ensures clean signal routing, improved EMI control, and optimized power and ground planes.",
