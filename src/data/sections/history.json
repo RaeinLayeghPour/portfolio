@@ -20,7 +20,7 @@
                 "text": "Power Systems Computer Aided Design",
                 "button": {
                     "link": "https://www.udemy.com/certificate/UC-96cf88bf-317d-4749-9f9e-33e23d04a057/",
-                    "type": "modal",
+                    "type": "link",
                     "label": "View Certificate"
                 }
             },
@@ -32,7 +32,7 @@
                 "text": "Printed Circuit Board (PCB) Design and KiCAD",
                 "button": {
                     "link": "https://www.udemy.com/certificate/UC-6be500f0-563c-4512-9839-01f92b8a46bf/",
-                    "type": "modal",
+                    "type": "link",
                     "label": "View Certificate"
                 }
             },
