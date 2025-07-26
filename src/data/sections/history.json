@@ -13,6 +13,42 @@
                     "label": "Diplome"
                 }
             },
+   {
+                "title": "PSCAD & Renewable Energy",
+                "subtitle": "Udemy",
+                "date": "July 2025",
+                "text": "Power Systems Computer Aided Design",
+                "button": {
+                    "link": "https://www.udemy.com/certificate/UC-96cf88bf-317d-4749-9f9e-33e23d04a057/",
+                    "type": "modal",
+                    "label": "View Certificate"
+                }
+            },
+
+   {
+                "title": "PCB design with KiCad - Updated for KiCad 9",
+                "subtitle": "Udemy",
+                "date": "June 2025",
+                "text": "Printed Circuit Board (PCB) Design and KiCAD",
+                "button": {
+                    "link": "https://www.udemy.com/certificate/UC-6be500f0-563c-4512-9839-01f92b8a46bf/",
+                    "type": "modal",
+                    "label": "View Certificate"
+                }
+            },
+   {
+                "title": "HIL Specialist 2.0",
+                "subtitle": "Typhoon HIL, Inc.",
+                "date": "May 2025",
+                "text": "HIL Fundamentals, HIL for Power Electronics, HIL for Microgrids, Test Automation, Communication Protocols",
+                "button": {
+                    "link": "/files/certificate2.jpg",
+                    "type": "modal",
+                    "label": "View Certificate"
+                }
+            },
+
+
             {
                 "title": "Converter Circuits Fundamentals: Specialization Program",
                 "subtitle": "Faculty of Technical Sciences, University of Novi Sad",
@@ -31,17 +67,6 @@
                 "text": "HIL Fundamentals, HIL for Power Electronics, HIL for Microgrids, Test Automation, Communication Protocols",
                 "button": {
                     "link": "/files/certificate2.jpg",
-                    "type": "modal",
-                    "label": "View Certificate"
-                }
-            },
-   {
-                "title": "PCB design with KiCad - Updated for KiCad 9",
-                "subtitle": "Udemy",
-                "date": "June 2025",
-                "text": "Printed Circuit Board (PCB) Design and KiCAD",
-                "button": {
-                    "link": "https://www.udemy.com/certificate/UC-6be500f0-563c-4512-9839-01f92b8a46bf/",
                     "type": "modal",
                     "label": "View Certificate"
                 }
