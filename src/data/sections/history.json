@@ -60,17 +60,6 @@
                     "label": "View Certificate"
                 }
             },
-   {
-                "title": "HIL Specialist 2.0",
-                "subtitle": "Typhoon HIL, Inc.",
-                "date": "May 2025",
-                "text": "HIL Fundamentals, HIL for Power Electronics, HIL for Microgrids, Test Automation, Communication Protocols",
-                "button": {
-                    "link": "/files/certificate2.jpg",
-                    "type": "modal",
-                    "label": "View Certificate"
-                }
-            },
 
 
             {
