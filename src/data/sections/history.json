@@ -13,9 +13,20 @@
                     "label": "Diplome"
                 }
             },
+               {
+                "title": "CYME Mastery: Power System Analysis",
+                "subtitle": "Power 2 Human",
+                "date": "August 2025",
+                "text": "CYME power engineering software solutions",
+                "button": {
+                    "link": "https://www.udemy.com/certificate/UC-cea49748-cea5-4abb-adac-52024df69391/",
+                    "type": "link",
+                    "label": "View Certificate"
+                }
+            },
    {
                 "title": "PSCAD & Renewable Energy",
-                "subtitle": "Udemy",
+                "subtitle": "Power 2 Human",
                 "date": "July 2025",
                 "text": "Power Systems Computer Aided Design",
                 "button": {
