@@ -5,7 +5,7 @@
       "title": "Low Voltage Distribution Network Design and Load Flow Analysis using AutoCAD and ETAP",
       "text": "This project represents the ETAP load flow simulation of the 1000 kVA distribution network. The color-coded profile illustrates voltage levels across the system, where all bus voltages remain above 96%, confirming stable operation within standard limits. Transformer loading is observed at 60.5% of rated capacity, ensuring safe utilization while maintaining reserve margin.",
       "button": {
-        "link": "https://github.com/RaeinLayeghPour/Advanced-Wind-Energy-System-Simulation-in-PSCAD",
+        "link": "https://github.com/RaeinLayeghPour/Low-Voltage-Distribution-Network-Design-and-Load-Flow-Analysis-using-AutoCAD-and-ETAP",
         "label": "View Project"
       }
     },
