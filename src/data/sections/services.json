@@ -1,6 +1,14 @@
 {
   "title": "My Projects",
   "items": [
+     {
+      "title": "Low Voltage Distribution Network Design and Load Flow Analysis using AutoCAD and ETAP",
+      "text": "This project represents the ETAP load flow simulation of the 1000 kVA distribution network. The color-coded profile illustrates voltage levels across the system, where all bus voltages remain above 96%, confirming stable operation within standard limits. Transformer loading is observed at 60.5% of rated capacity, ensuring safe utilization while maintaining reserve margin.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Advanced-Wind-Energy-System-Simulation-in-PSCAD",
+        "label": "View Project"
+      }
+    },
    {
       "title": "Advanced Wind Turbine System Simulation in PSCAD | Grid Integration & Power Converter Control",
       "text": "This simulation illustrates a complete wind energy conversion system (WECS) modeled in PSCAD. It includes a wind turbine, synchronous generator, full-scale power converter (AC–DC–AC), DC link, transformer, and grid connection. The system integrates control strategies for turbine pitch, generator torque, and inverter modulation, with real-time monitoring of power flow, mechanical dynamics, and voltage behavior across the network.",
