@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "label": "Years Experience",
+            "value": "3",
+            "valueAfter": "+"
+        },
+        {
+            "label": "Completed Projects",
+            "value": "8",
+            "valueAfter": ""
+        },
+        {
+            "label": "Ongoing Projects",
+            "value": "2",
+            "valueAfter": ""
+        },
+        {
+            "label": "Honors and Awards",
+            "value": "3",
+            "valueAfter": "+"
+        }
+    ]
+}

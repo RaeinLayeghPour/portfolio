@@ -1,0 +1,24 @@
+{
+    "bg_image": "/img/1600x600_ElectricalEngineering_Banner.jpg",
+    "title": "Where Ideas Become Real: <br/>My Electrical Creations!",
+    "subtitle": {
+       "start": "<i>code</i> I build ",
+"rotates": [
+    "PCB designs using KiCad.",
+    "power electronics circuits.",
+    "embedded systems applications.",
+    "automation tools with Python.",
+    "hardware prototypes for projects."
+        ],
+        "end": "&lt;/<i>code</i>&gt;"
+    },
+   "button": {
+  "link": "#projects",
+  "label": "Explore now"
+},
+
+    "photo": {
+        "url": "img/_DSF5630_preview_rev_1.png",
+        "alt": "Raein Layegh Pour"
+    }
+}

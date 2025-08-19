@@ -1,0 +1,145 @@
+{
+    "settings": {
+        "siteName": "Raein Layegh Pour",
+        "siteDescription": "Portfolio",
+        "formspreeURL": "https://formspree.io/f/your_api_key",
+        "mailchimp": {
+            "url": "",
+            "key": ""
+        },
+        "perPage": 6
+    },
+    "profile": {
+        "avatar": "/img/face-1.JPG",
+        "name": "Raein Layegh Pour",
+        "role": "Power System Protection Engineer<br>& HIL Specialist",
+        "info": [
+            {
+                "label": "Residence",
+                "value": "Canada"
+            },
+            {
+                "label": "City",
+                "value": "North York"
+            },
+            {
+                "label": "Age",
+                "value": "20"
+            }
+        ],
+        "skills": {
+            "language": [
+                {
+                    "label": "MCU datalogger with build-in 512K EEPROM (PCB Design)",
+                    "value": "1"
+                },
+                {
+                    "label": "Wind Turbine System Simulation in PSCAD",
+                    "value": "1"
+                },
+                {
+                    "label": "Digital Substation (Typhoon HIL & PCM600)",
+                    "value": "0.8"
+                }
+            ],
+            "hard": [
+                {
+                    "label": "Python",
+                    "value": "0.95"
+                },
+                {
+                    "label": "MATLAB",
+                    "value": "0.95"
+                },
+                {
+                    "label": "C (programming language)",
+                    "value": "0.9"
+                },
+                {
+                    "label": "JAVA",
+                    "value": "0.85"
+                },
+
+ {
+                    "label": "Assembly language",
+                    "value": "0.85"
+                },
+                {
+                    "label": "VHDL",
+                    "value": "0.85"
+                }
+            ],
+            "knowledge": [
+                {
+                    "label": "Simulink, ETAP, CYME"
+                },
+                {
+                    "label": "KiCad, Typhoon HIL, PCM600"
+                },
+                {
+                    "label": "Multisim, Quartus II, Power BI"
+                },
+                {
+                    "label": "Project Manager, Problem Solving, Innovation, Fast Learner"
+                }
+            ]
+        },
+        "resume": "#"
+    },
+    "header": {
+        "topBackground": "/img/1600x600_ElectricalEngineering_Banner.jpg",
+        "menu": [
+            {
+                "label": "Home",
+                "link": "/",
+                "children": 0
+            },
+            {
+                "label": "Experience",
+                "link": "/history",
+                "children": 0
+            },
+            {
+                "label": "Contact",
+                "link": "/contact",
+                "children": 0
+            }
+        ]
+    },
+    "footer": {
+        "copy": "© 2025 Raein Layegh Pour. All rights reserved.",
+        "developer": "Developed by:&#160; <a href='https://www.linkedin.com/in/raeinlp?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoRihe6LiTI%2BUbYxt01B7iw%3D%3D' target='_blank'>Raein Layegh Pour</a>"
+    },
+   "social": [
+    {
+        "link": "https://www.linkedin.com/in/raeinlp?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoRihe6LiTI%2BUbYxt01B7iw%3D%3D",
+        "icon": "fab fa-linkedin-in",
+        "title": "Linkedin"
+    },
+    {
+        "link": "https://github.com/RaeinLayeghPour",
+        "icon": "fab fa-github",
+        "title": "GitHub"
+    }
+    ],
+    "projects": {
+        "categories": [
+            {
+                "name": "Web Templates",
+                "slug": "web-templates"
+            },
+            {
+                "name": "UI Elements",
+                "slug": "ui-elements"
+            },
+            {
+                "name": "Logos",
+                "slug": "logos"
+            },
+            {
+                "name": "Drawings",
+                "slug": "drawings"
+            }
+        ]
+    }
+}

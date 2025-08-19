@@ -1,0 +1,70 @@
+{
+  "title": "My Projects",
+  "items": [
+   {
+      "title": "Advanced Wind Turbine System Simulation in PSCAD | Grid Integration & Power Converter Control",
+      "text": "This simulation illustrates a complete wind energy conversion system (WECS) modeled in PSCAD. It includes a wind turbine, synchronous generator, full-scale power converter (AC–DC–AC), DC link, transformer, and grid connection. The system integrates control strategies for turbine pitch, generator torque, and inverter modulation, with real-time monitoring of power flow, mechanical dynamics, and voltage behavior across the network.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Advanced-Wind-Energy-System-Simulation-in-PSCAD",
+        "label": "View Project"
+      }
+    },
+
+    {
+      "title": "4-Layer Microcontroller Datalogger with RTC and EEPROM | Designed in KiCad",
+      "text": "This is a 4-layer datalogger PCB, designed using ATmega328P, a DS1337 RTC, and 2Mbit EEPROM for real-time, battery-backed data logging. This compact board supports I2C, SPI, UART, GPIO, and ICSP programming. The 4-layer stack ensures clean signal routing, improved EMI control, and optimized power and ground planes.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/MCU-Datalogger-with-Clock-and-Memory",
+        "label": "View Project"
+      }
+    },
+    {
+      "title": "Real-Time Smart Grid Control System for Hydropower Retrofit (Typhoon HIL & Modbus Integration)",
+      "text": "I developed a real-time smart grid control system to retrofit existing hydropower stations using Typhoon HIL. The project involved simulating dynamic interactions between hydropower, solar PV, battery storage, and variable loads within a full HIL environment.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Real-Time-Smart-Grid-Control-System",
+        "label": "View Project"
+      }
+    },
+    {
+      "title": "Test Bench for Signal Validation (Simulated 3-Phase System) Using Python",
+      "text": "A Python-based test automation framework for simulating and validating 3-phase AC signals under various conditions, including frequency variation, phase shift, and noise. Designed as a signal validation tool for electrical engineering applications such as inverter testing, motor control, and power system QA.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Test-Bench-for-Signal-Validation-Simulated-3-Phase-System",
+        "label": "View Project"
+      }
+    },
+    {
+      "title": "Grid-to-Motor Drive System with Real-Time Feedback using HIL (Typhoon HIL)",
+      "text": "In this project, I simulated a complete power conversion and motor control system using Typhoon HIL's real-time Hardware-in-the-Loop environment. The system begins with a three-phase AC grid input, which is passed through a three-phase diode rectifier to generate a DC bus voltage. This DC power is stabilized using a DC-link capacitor and then fed into a three-phase inverter that uses PWM switching to drive an induction motor.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Simple-Drive-System",
+        "label": "View Project"
+      }
+    },
+    {
+      "title": "Three-Phase Induction Motor Drive Modeled with DC Input and SCADA Interface (Typhoon HIL)",
+      "text": "A three-phase inverter-fed induction motor system was simulated using Typhoon HIL's real-time simulation environment and SCADA interface. The system used a DC power source with Clarke (αβ) to abc transformation for inverter modulation, and real-time control logic executed on the User CPU.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Simple-Drive-System",
+        "label": "View Project"
+      }
+    },
+    {
+      "title": "3-Stage BJT Amplifier Design (Multisim)",
+      "text": "I recently designed and simulated a 3-stage BJT amplifier in Multisim using 2N3904 NPN transistors, consisting of two common-emitter gain stages and an emitter-follower buffer. The goal was to amplify a small 1 kHz input signal while maintaining signal integrity and stability.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Three-Stage-BJT-Amplifier",
+        "label": "View Project"
+      }
+    },
+    {
+      "title": "FPGA-Based Simple CPU Design using VHDL",
+      "text": "In this project I designed and implemented a basic Central Processing Unit (CPU) using VHDL and deployed it on an Altera FPGA board. The central processing unit (CPU) had an Arithmetic Logic Unit (ALU) that could do different kinds of math and logic operations, a Finite State Machine (FSM)-based program counter (PC) that could get and run instructions, and registers that could store temporary data.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/FPGA-Based-Simple-CPU-Design",
+        "label": "View Project"
+      }
+    }
+  ]
+}

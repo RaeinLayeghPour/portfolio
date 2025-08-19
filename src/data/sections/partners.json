@@ -1,0 +1,16 @@
+{
+    "items": [
+        {
+            "image": "/img/brands/1.png",
+            "alt": "logo"
+        },
+        {
+            "image": "/img/brands/2.png",
+            "alt": "logo"
+        },
+        {
+            "image": "/img/brands/3.png",
+            "alt": "logo"
+        }
+    ]
+}

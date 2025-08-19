@@ -1,0 +1,45 @@
+{
+    "title": "Contact information",
+    "items": [
+        {
+            "info": [
+                {
+                    "label": "Country",
+                    "value": "Canada"
+                },
+                {
+                    "label": "City",
+                    "value": "North York"
+                },
+                {
+                    "label": "Streat",
+                    "value": "78 Harrison Garden Blvd"
+                }
+            ]
+        },
+        {
+            "info": [
+                {
+                    "label": "Email",
+                    "value": "raeen.layegh2017@gmail.com"
+                },
+                {
+                    "label": "Telegram",
+                    "value": "@x0MadMan0x"
+                },
+                {
+                    "label": "Skype",
+                    "value": "Raein Layegh Pour"
+                }
+            ]
+        },
+        {
+            "info": [
+                {
+                    "label": "Personal",
+                    "value": "+1 (437) 982 9165"
+                }
+            ]
+        }
+    ]
+}
