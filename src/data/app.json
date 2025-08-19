@@ -30,11 +30,11 @@
         "skills": {
             "language": [
                 {
-                    "label": "MCU datalogger with build-in 512K EEPROM (PCB Design)",
+                    "label": "Wind Turbine System Simulation in PSCAD",
                     "value": "1"
                 },
                 {
-                    "label": "Wind Turbine System Simulation in PSCAD",
+                    "label": "Low Voltage Distribution Network Design in ETAP",
                     "value": "1"
                 },
                 {
