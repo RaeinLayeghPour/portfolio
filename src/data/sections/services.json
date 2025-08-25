@@ -1,6 +1,14 @@
 {
   "title": "My Projects",
   "items": [
+         {
+      "title": "Real-Time Digital Substation Relay Protection with ABB SSC600 | 10 Bay IEC 61850 on Typhoon HIL",
+      "text": "This project demonstrates real-time substation automation and relay protection using the ABB Ability™ Smart Substation Control and Protection (SSC600) Intelligent Electronic Device (IED). It integrates the SSC600 with a Typhoon HIL604 digital real-time simulator, enabling closed-loop testing of protection schemes, GOOSE messaging, and sampled values (SV) in compliance with IEC 61850.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Real-Time-Digital-Substation-Relay-Protection-with-ABB-SSC600",
+        "label": "View Project"
+      }
+    },
      {
       "title": "Low Voltage Distribution Network Design and Load Flow Analysis using AutoCAD and ETAP",
       "text": "This project represents the ETAP load flow simulation of the 1000 kVA distribution network. The color-coded profile illustrates voltage levels across the system, where all bus voltages remain above 96%, confirming stable operation within standard limits. Transformer loading is observed at 60.5% of rated capacity, ensuring safe utilization while maintaining reserve margin.",
