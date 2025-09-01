@@ -13,6 +13,17 @@
                     "label": "Diplome"
                 }
             },
+                  {
+                "title": "Power System Analysis with PYTHON",
+                "subtitle": "Power 2 Human",
+                "date": "September 2025",
+                "text": "Power System Analysis with PyPSA & Pandapower",
+                "button": {
+                    "link": "https://www.udemy.com/certificate/UC-8d724112-e727-4f43-8c11-6b2f1800e50f/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com",
+                    "type": "link",
+                    "label": "View Certificate"
+                }
+            },
                {
                 "title": "CYME Mastery: Power System Analysis",
                 "subtitle": "Power 2 Human",
