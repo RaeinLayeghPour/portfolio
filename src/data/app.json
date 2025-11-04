@@ -12,7 +12,7 @@
     "profile": {
         "avatar": "/img/face-1.JPG",
         "name": "Raein Layegh Pour",
-        "role": "Power System Protection Engineer<br>& HIL Specialist",
+        "role": "R&D Electrical Engineer Intern<br>@ Hydrogen Optimized",
         "info": [
             {
                 "label": "Residence",
@@ -30,16 +30,16 @@
         "skills": {
             "language": [
                 {
-                    "label": "Wind Turbine System Simulation in PSCAD",
-                    "value": "1"
-                },
-                {
-                    "label": "Low Voltage Distribution Network Design in ETAP",
-                    "value": "1"
-                },
-                {
                     "label": "Digital Substation (Typhoon HIL & PCM600)",
-                    "value": "0.8"
+                    "value": "1"
+                },
+                {
+                    "label": "Linear Voltage-Controlled Waveform Generator",
+                    "value": "1"
+                },
+                {
+                    "label": "Robot Guidance Challenge",
+                    "value": "0.6"
                 }
             ],
             "hard": [
