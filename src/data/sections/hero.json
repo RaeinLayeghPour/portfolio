@@ -4,11 +4,11 @@
     "subtitle": {
        "start": "<i>code</i> I build ",
 "rotates": [
-    "PCB design and modeling for power conversion hardware.",
-    "power electronics and high-efficiency converter design.",
-    "embedded control systems for hydrogen and renewable energy.",
-    "automation and simulation with Python, MATLAB, and Typhoon HIL.",
-    "hardware prototyping and validation for smart grid applications."
+    "PCB design for power systems.",
+    "power electronics & converter design.",
+    "embedded control for hydrogen energy.",
+    "Python, MATLAB & HIL automation.",
+    "hardware prototyping for smart grids."
 ],
 "end": "</code>"
 
