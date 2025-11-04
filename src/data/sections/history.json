@@ -5,8 +5,8 @@
             {
                 "title": "Toronto Metropolitan University",
                 "subtitle": "3rd-Year Unergraduate Student",
-                "date": "Sep 2023 - Apr 2028",
-                "text": "Bachelor's Degree in Electrical & Electronics Engineering",
+                "date": "Sep 2023 - May 2028",
+                "text": "Bachelor's Degree in Electrical Engineering",
                 "button": {
                     "link": "/files/certificate.jpg",
                     "type": "#",
@@ -112,6 +112,12 @@
     "col2": {
         "title": "Work Experience",
         "items": [
+              {
+                "title": "R&D Electrical Engineering Intern",
+                "subtitle": "Hydrogen Optimized",
+                "date": "Jan 2026 - Dec 2026",
+                "text": "Working on the design and testing of power conversion and protection systems for hydrogen production and renewable energy integration."
+            },
             {
                 "title": "Research Assistant - Power System Protection",
                 "subtitle": "Toronto Metropolitan University",
