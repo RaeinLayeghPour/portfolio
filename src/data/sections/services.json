@@ -1,6 +1,14 @@
 {
   "title": "My Projects",
   "items": [
+      {
+      "title": "Linear Voltage-Controlled Waveform Generator | Designed in Multisim",
+      "text": "Designed and built a linear voltage-controlled waveform generator (VCFG) featuring integrator, bistable, and DC–DC converter stages. Achieved ±6.3 V output at 4.4 kHz with precise frequency (100 Hz–4.4 kHz) and gain (0–8 Vₚ₋ₚ) control via dual potentiometers. Validated full linear performance (< 3 % error) in both Multisim simulation and hardware testing.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/Linear-Voltage-Controlled-Waveform-Generator",
+        "label": "View Project"
+      }
+    },
          {
       "title": "Real-Time Digital Substation Relay Protection with ABB SSC600 | 10 Bay IEC 61850 on Typhoon HIL",
       "text": "This project demonstrates real-time substation automation and relay protection using the ABB Ability™ Smart Substation Control and Protection (SSC600) Intelligent Electronic Device (IED). It integrates the SSC600 with a Typhoon HIL604 digital real-time simulator, enabling closed-loop testing of protection schemes, GOOSE messaging, and sampled values (SV) in compliance with IEC 61850.",
