@@ -4,13 +4,14 @@
     "subtitle": {
        "start": "<i>code</i> I build ",
 "rotates": [
-    "PCB designs using KiCad.",
-    "power electronics circuits.",
-    "embedded systems applications.",
-    "automation tools with Python.",
-    "hardware prototypes for projects."
-        ],
-        "end": "&lt;/<i>code</i>&gt;"
+    "PCB design and modeling for power conversion hardware.",
+    "power electronics and high-efficiency converter design.",
+    "embedded control systems for hydrogen and renewable energy.",
+    "automation and simulation with Python, MATLAB, and Typhoon HIL.",
+    "hardware prototyping and validation for smart grid applications."
+],
+"end": "</code>"
+
     },
    "button": {
   "link": "#projects",
