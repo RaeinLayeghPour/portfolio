@@ -2,6 +2,14 @@
   "title": "My Projects",
   "items": [
       {
+      "title": "EEBOT Maze Runner | Embedded Systems & Autonomous Navigation Project (HC12 Assembly)",
+      "text": "The EEBOT Maze Runner is a fully autonomous mobile robot designed to navigate a black-line maze using real-time sensor feedback and low-level embedded control. The system is implemented entirely in HC12 assembly language, demonstrating precise hardware-level control, intelligent navigation, and reliable recovery from dead ends.",
+      "button": {
+        "link": "https://github.com/RaeinLayeghPour/EEBOT-Maze-Runner",
+        "label": "View Project"
+      }
+    },
+      {
       "title": "Linear Voltage-Controlled Waveform Generator | Designed in Multisim",
       "text": "Designed and built a linear voltage-controlled waveform generator (VCFG) featuring integrator, bistable, and DC–DC converter stages. Achieved ±6.3 V output at 4.4 kHz with precise frequency (100 Hz–4.4 kHz) and gain (0–8 Vₚ₋ₚ) control via dual potentiometers. Validated full linear performance (< 3 % error) in both Multisim simulation and hardware testing.",
       "button": {
