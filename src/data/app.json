@@ -38,8 +38,8 @@
                     "value": "1"
                 },
                 {
-                    "label": "Robot Guidance Challenge",
-                    "value": "0.6"
+                    "label": "EEBOT Maze Runner",
+                    "value": "1"
                 }
             ],
             "hard": [
@@ -57,16 +57,16 @@
                 },
                 {
                     "label": "JAVA",
-                    "value": "0.85"
+                    "value": "0.9"
                 },
 
  {
                     "label": "Assembly language",
-                    "value": "0.85"
+                    "value": "0.9"
                 },
                 {
                     "label": "VHDL",
-                    "value": "0.85"
+                    "value": "0.9"
                 }
             ],
             "knowledge": [
