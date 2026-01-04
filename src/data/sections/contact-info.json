@@ -11,10 +11,6 @@
                     "label": "City",
                     "value": "North York"
                 },
-                {
-                    "label": "Streat",
-                    "value": "78 Harrison Garden Blvd"
-                }
             ]
         },
         {
@@ -23,14 +19,7 @@
                     "label": "Email",
                     "value": "raeen.layegh2017@gmail.com"
                 },
-                {
-                    "label": "Telegram",
-                    "value": "@x0MadMan0x"
-                },
-                {
-                    "label": "Skype",
-                    "value": "Raein Layegh Pour"
-                }
+
             ]
         },
         {
