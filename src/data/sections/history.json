@@ -4,13 +4,24 @@
         "items": [
             {
                 "title": "Toronto Metropolitan University",
-                "subtitle": "3rd-Year Unergraduate Student",
+                "subtitle": "Co-op Unergraduate Student",
                 "date": "Sep 2023 - May 2028",
                 "text": "Bachelor's Degree in Electrical Engineering",
                 "button": {
                     "link": "/files/certificate.jpg",
                     "type": "#",
                     "label": "Diplome"
+                }
+            },
+                   {
+                "title": "AutoCAD electrical essentials course",
+                "subtitle": "SourceCAD",
+                "date": "January 2026",
+                "text": "AutoCAD Electrical for Automation & Electrical Engineers",
+                "button": {
+                    "link": "https://media.licdn.com/dms/image/v2/D4E2DAQHx-AvB3dMDdw/profile-treasury-document-cover-images_480/B4EZuGW2TIIsBI-/0/1767485696837?e=1768111200&v=beta&t=jZZBRrnE2vHZAZMnO7UhHyOlXAkBfOFw4Xm12U360Bo",
+                    "type": "link",
+                    "label": "View Certificate"
                 }
             },
                   {
