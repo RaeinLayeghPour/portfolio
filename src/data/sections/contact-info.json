@@ -1,34 +1,33 @@
 {
-    "title": "Contact information",
-    "items": [
+  "title": "Contact information",
+  "items": [
+    {
+      "info": [
         {
-            "info": [
-                {
-                    "label": "Country",
-                    "value": "Canada"
-                },
-                {
-                    "label": "City",
-                    "value": "North York"
-                },
-            ]
+          "label": "Country",
+          "value": "Canada"
         },
         {
-            "info": [
-                {
-                    "label": "Email",
-                    "value": "raeen.layegh2017@gmail.com"
-                },
-
-            ]
-        },
-        {
-            "info": [
-                {
-                    "label": "Personal",
-                    "value": "+1 (437) 982 9165"
-                }
-            ]
+          "label": "City",
+          "value": "North York"
         }
-    ]
+      ]
+    },
+    {
+      "info": [
+        {
+          "label": "Email",
+          "value": "raeen.layegh2017@gmail.com"
+        }
+      ]
+    },
+    {
+      "info": [
+        {
+          "label": "Personal",
+          "value": "+1 (437) 982 9165"
+        }
+      ]
+    }
+  ]
 }
