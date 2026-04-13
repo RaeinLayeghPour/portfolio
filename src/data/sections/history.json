@@ -4,13 +4,13 @@
         "items": [
             {
                 "title": "Toronto Metropolitan University",
-                "subtitle": "Co-op Unergraduate Student",
+                "subtitle": "Co-op Undergraduate Student",
                 "date": "Sep 2023 - May 2028",
                 "text": "Bachelor's Degree in Electrical Engineering",
                 "button": {
                     "link": "/files/certificate.jpg",
                     "type": "#",
-                    "label": "Diplome"
+                    "label": "Diploma"
                 }
             },
                    {
@@ -126,7 +126,7 @@
               {
                 "title": "Electrical Engineering Intern",
                 "subtitle": "Hydrogen Optimized",
-                "date": "Jan 2026 - Dec 2026",
+                "date": "Jan 2026 - Dec 2027",
                 "text": "Working on the design and testing of power conversion and protection systems for hydrogen production and renewable energy integration."
             },
             {
@@ -135,16 +135,19 @@
                 "date": "Sep 2024 - Dec 2025",
                 "text": "Currently engaged in pioneering research focused on the development of advanced protection systems for electrical power networks."
             },
-            {
-                "title": "VP Webmaster",
-                "subtitle": "IEEE TMU Student Branch",
-                "date": "Aug 2024 - Dec 2025",
-                "text": "Developed and launched the official website for the IEEE Toronto Metropolitan University Chapter, enhancing accessibility to events, resources, and updates.",
-                "button": {
-                    "type": "link",
-                    "link": "https://ieeetmu.ca/",
-                    "label": "View Website"
-            },
+
+{
+  "title": "VP Webmaster",
+  "subtitle": "IEEE TMU Student Branch",
+  "date": "Aug 2024 - Dec 2025",
+  "text": "Developed and launched the official website for the IEEE Toronto Metropolitan University Chapter, enhancing accessibility to events, resources, and updates.",
+  "button": {
+    "type": "link",
+    "link": "https://ieeetmu.ca/",
+    "label": "View Website"
+  }
+},
+
             {
                 "title": "Electric Powertrain Team",
                 "subtitle": "Toronto Metropolitan Formula Racing",
