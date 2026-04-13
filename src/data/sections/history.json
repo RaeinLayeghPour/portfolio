@@ -130,26 +130,26 @@
                 "text": "Working on the design and testing of power conversion and protection systems for hydrogen production and renewable energy integration."
             },
             {
-                "title": "Research Assistant - Protection & Control (P&C)",
+                "title": "Undergraduate Research Assistant - Protection & Control (P&C)",
                 "subtitle": "Toronto Metropolitan University",
-                "date": "Sep 2024 - Present",
+                "date": "Sep 2024 - Dec 2025",
                 "text": "Currently engaged in pioneering research focused on the development of advanced protection systems for electrical power networks."
             },
             {
-                "title": "Electrical Powertrain Engineer",
-                "subtitle": "Toronto Metropolitan Formula Racing",
-                "date": "Jun 2024 - Present",
-                "text": "Collaborate on the design, testing, and integration of electric powertrain systems as part of the TMU Formula Racing team."
-            },
-            {
-                "title": "Webmaster",
+                      "title": "VP Webmaster",
                 "subtitle": "IEEE TMU Student Branch",
-                "date": "Aug 2024 - Present",
+                "date": "Aug 2024 - Dec 2025",
                 "text": "Developed and launched the official website for the IEEE Toronto Metropolitan University Chapter, enhancing accessibility to events, resources, and updates.",
                 "button": {
                     "type": "link",
-                    "link": "https://ieeetorontomu.ca/",
+                    "link": "https://ieeetmu.ca/",
                     "label": "View Website"
+            },
+            {
+                "title": "Electric Powertrain Team",
+                "subtitle": "Toronto Metropolitan Formula Racing",
+                "date": "Jun 2024 - Jul 2025",
+                "text": "Collaborate on the design, testing, and integration of electric powertrain systems as part of the TMU Formula Racing team."
                 }
             }
         ]
